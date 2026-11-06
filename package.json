@@ -1,0 +1,8 @@
+{
+  "name": "durak-space-server",
+  "version": "1.0.0",
+  "description": "Сервер для Космического Дурака: WebSocket-столы, ставки, SHA-256+HMAC контроль честности",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "license": "MIT"
+}
